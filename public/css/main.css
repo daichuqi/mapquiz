@@ -1,0 +1,35 @@
+body{
+  width: 100%;
+}
+#nav{
+  float: left;
+  width: 20%;
+  position: fixed;
+  background-color: white;
+}
+#logo{
+  width: 100%;
+}
+
+.navButton{
+  width: 100%;
+  margin-top: 20px;
+  height: 60px;
+  background-color: grey;
+  color: white;
+  border: none;
+}
+
+.navButton:hover{
+  background-color: black;
+  color: white;
+}
+
+#map img{
+  left: 30%;
+  position: fixed;
+  width: 50%;
+  height: 90%;
+}
+#map{
+}
